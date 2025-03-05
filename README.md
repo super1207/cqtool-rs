@@ -6,6 +6,7 @@
 
 ```shell
 cargo add cqtool
+cargo add serde_json
 ```
 
 ## 使用
