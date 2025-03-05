@@ -1,0 +1,10 @@
+[package]
+name = "cqtool"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A tool for converting between CQ strings and message segment arrays"
+repository = "https://github.com/super1207/cqtool-rs"
+
+[dependencies]
+serde_json = "1"
